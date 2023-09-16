@@ -16,7 +16,7 @@ The same is implemented in *PairFactory* contract.
 
 ### Tests
 
-Setup foundry, install dependencies, followed by -
+Setup project by running `forge build`, followed by -
 
 ```
 
